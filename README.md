@@ -102,7 +102,7 @@ Failures in a functional safety system can be broadly classified into two catego
 
 | Standard  |  Targeted End Equipment Applications |
 | ------------- | ------------- |
-IEC 61508 Electrical, Electronic, Programmable Electronic Systems
+|IEC 61508      | Electrical, Electronic, Programmable Electronic Systems|
 ISO 26262 Road Vehicles (except Mopeds) up to 3500Kg*
 EN 50129 Railway Signaling
 ISO 22201 Elevator / Escalator
