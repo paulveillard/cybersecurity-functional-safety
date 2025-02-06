@@ -8,6 +8,7 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
    - [1 - Functional Safety Introduction](#)
       - [What is Functional Safety](#)
+   - [2 - Functional Safety Standards](#)
 
 
 ## 1 - Functional Safety Introduction
@@ -87,3 +88,6 @@ Failures in a functional safety system can be broadly classified into two catego
 ##### Random Failures
 − Result from random defects or soft errors inherent to process or usage condition
 − Rate of random faults cannot generally be reduced; focus must be on the detection and handling of random faults to prevent application failure
+
+
+## 2 - Functional Safety Standards
