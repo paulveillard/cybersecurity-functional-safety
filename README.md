@@ -7,7 +7,8 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Table of Contents`
    - [1 - Functional Safety Introduction](#)
-      - [What is Functional Safety](#)
+      - [1.1 - What is Functional Safety](#)
+      - 
    - [2 - Functional Safety Standards](#)
 
 
