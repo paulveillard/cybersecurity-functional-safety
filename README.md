@@ -102,13 +102,12 @@ Failures in a functional safety system can be broadly classified into two catego
 
 | Standard  |  Targeted End Equipment Applications |
 | ------------- | ------------- |
-|IEC 61508      | Electrical, Electronic, Programmable Electronic Systems|
-|ISO 26262 | Road Vehicles (except Mopeds) up to 3500Kg*|
-|EN 50129 |Railway Signaling|
-ISO 22201 Elevator / Escalator| 22201 Elevator / Escalator|
-ISO 22201 Elevator / Escalator|
-|IEC 61511 Process Industry (Chemical, Oil Refining etc.)|
-|IEC 61800 Adjustable speed AC motor drive|
-|IEC 62061 Industry Machinery (electronics)|
-|ISO 13849 Industry Machinery|
-|IEC 60730 Automatic Controls for Household use|
+|IEC 61508  | Electrical, Electronic, Programmable Electronic Systems|
+|ISO 26262  | Road Vehicles (except Mopeds) up to 3500Kg*|
+|EN 50129   | Railway Signaling|
+|ISO 22201  | Elevator / Escalator|
+|IEC 61511  | Process Industry (Chemical, Oil Refining etc.)|
+|IEC 61800  | Adjustable speed AC motor drive|
+|IEC 62061  | Industry Machinery (electronics)|
+|ISO 13849  | Industry Machinery|
+|IEC 60730  | Automatic Controls for Household use|
