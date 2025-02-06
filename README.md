@@ -93,12 +93,6 @@ Failures in a functional safety system can be broadly classified into two catego
 
 ## 2 - Functional Safety Standards
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-
 
 | Standard  |  Targeted End Equipment Applications |
 | ------------- | ------------- |
